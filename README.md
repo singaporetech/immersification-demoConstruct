@@ -10,13 +10,13 @@ demoConstruct is an open-source initiative designed to democratize digital twin 
 
 **Capture and Reconstruction Client**
 
-<img src="https://github.com/singaporetech/democonstruct-research-packet/assets/51155060/4e6e8047-419d-4574-bd8f-2c30085ac556" width="45%">
+<img src="https://github.com/singaporetech/immersification-demoConstruct/assets/3720988/302b18cc-726f-4bf8-9f1c-991a1538f35c" width="45%">
 
 The capture client allows users to capture imagery which are continuously sent to the edge node to perform progressive reconstruction.
 
 **Collaborative editing Client**
 
-<img src="https://github.com/singaporetech/democonstruct-research-packet/assets/51155060/f0735155-5c29-40f0-8130-0b0a35bdb7fa" width="75%">
+<img src="https://github.com/singaporetech/immersification-demoConstruct/assets/3720988/9928ef9c-0e9c-475a-a188-f9e7704bccda" width="75%">
 
 The editing client enables users to use progressively reconstructed 3D models to build digital twin environments that are kept current from incremental updates sent by the edge node..
 
