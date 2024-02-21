@@ -2,17 +2,11 @@
 
 ## Introduction
 
-As the name implies, we aim to democratize the construction of digital twin environments. The eventual artifact is a tool for users to collaborate on creating virtual scenes through any platform, for various purposes
+As the name implies, we aim to democratize the construction of digital twin environments. The eventual artifact is a tool for users to collaborate on creating virtual scenes through any platform, for various purposes.
 
 ![representative_image_16x9](https://github.com/singaporetech/immersification-demoConstruct/assets/51155060/28ba1296-a79a-4823-96e3-ed0b17c93fd7)
 
-## Background
-
-Digital twin technology is a primary area of interest for smart manufacturing. Digital twins also serve as the foundation for AR/VR/MR experiences that are key to Industry 4.0. Constructing high-fidelity 3D digital twins typically require expertise and resources that are not easily accessible to the common consumer. For most development tasks, it is not uncommon to require experienced 3D technical artists working with expensive 3D software.
-
-demoConstruct aims to serve as a branching platform to allow users to adapt and accommodate the source code for the development digital twins in the context of their own use case. With demoConstruct, many untrained users aimming to create digital twin of existing physical locations collaboratively create digital replica of objects and environments any common consumer mobile device and computers, without needing to depend on specialized technical artists and costly resources.
-
-To enable this, on the front facing end demoConstruct has 2 web-based applications for users to create 3D models and virtual environments for digital twins. Additionally there is a "back-end" server which is used to off-load resource intensive tasks from the 2 front facing web-based applications, and perform other data sychronization tasks to enable efficient collaboration.
+demoConstruct is an open-source initiative designed to democratize digital twin creation, serving as a branching platform to allow users to adapt and accommodate the source code for the development of digital twins tools in the context of their own use case. With demoConstruct, users aimming to create digital twin of existing physical locations and objects can collaboratively create digital replica with common consumer grade mobile device and computers, without needing to depend on deep specialized or technical knowledge.
 
 **Capture and Reconstruction Client**
 
