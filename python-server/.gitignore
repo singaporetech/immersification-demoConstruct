@@ -1,0 +1,28 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+
+# Compiled Python bytecode
+*.py[cod]
+
+# Python venv
+__pycache__
+venv/
+.venv/
+
+# Capture images
+captures/*
+
+# Unignore specific model files inside captures/
+!captures/dover_courtyard
+!captures/immersification_lab/
+!captures/Warning_Zone/
+
+#ignore captures.zip
+captures.zip
+
+# Meshroom output file
+out.mg
+
+# macos
+.DS_Store
