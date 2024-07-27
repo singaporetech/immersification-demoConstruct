@@ -1,0 +1,57 @@
+# General
+.DS_Store
+Thumbs.db
+
+# Editor-specific
+.idea
+*.iml
+*.suo
+*.cache
+*.log
+*.swp
+
+# Build artifacts
+build/
+dist/
+coverage/
+
+# make the above generic
+.vscode/
+
+# Test artifacts
+.nyc_output/
+
+# Local configuration
+.env
+.local.env
+*env/
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Xcode
+DerivedData/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev*
+xcuserdata
+*.moved-aside
+*.xccheckout
+*.xcworkspace
+*.xcscmblueprint
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build
+Carthage/Checkouts
+
+# Swift Package Manager
+Packages/
+
+# Vim
+Session.vim
