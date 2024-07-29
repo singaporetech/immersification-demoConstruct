@@ -12,7 +12,7 @@ A simplified architecture of demoConstruct is as shown below.
 
 # Project Contributors
 
-Tan Chek Tien, Leon Foo Cewei, Sukumaran Nair Nirmal, Shen Songjia, Liuziyi, Jeannie Lee, Indriyati Atmosukarto
+Tan Chek Tien (chek@immersification.com), Leon Foo Cewei, Sukumaran Nair Nirmal, Shen Songjia, Liuziyi, Jeannie Lee, Indriyati Atmosukarto
 
 # Publications
 
@@ -59,6 +59,7 @@ The architecture was been presented at the 2023 AAAI Summer Symposium. The paper
 # What is in this repository?
 
 This demoConstruct repository has 3 main folders 
+
 ├── python-server 
 ├── editing-client-web
 └── capture-client-mobile
