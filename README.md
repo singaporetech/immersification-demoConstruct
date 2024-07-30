@@ -59,10 +59,11 @@ The architecture was been presented at the 2023 AAAI Summer Symposium. The paper
 # What is in this repository?
 
 This demoConstruct repository has 3 main folders 
-
+```
 ├── python-server 
 ├── editing-client-web
 └── capture-client-mobile
+```
 
 ### python-server
 This contains the files and python code used to initialize the server, connect to mongoDB, and provide server-side services such as storing of capture and model data, 3D reconstruction, and post-processing with blender.
