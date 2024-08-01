@@ -16,7 +16,7 @@ Tan Chek Tien (chek@immersification.com), Leon Foo Cewei, Sukumaran Nair Nirmal,
 
 # Publications
 
-This repo was released as part of a SIGGRAPH Labs presented at SIGGRAPH 2025. The paper can be accessed [here](https://dl.acm.org/doi/10.1145/1234567.1234567), and the bibtex to cite our paper is as below:
+This repo was released as part of a SIGGRAPH Labs presented at SIGGRAPH 2024. The paper can be accessed [here](https://dl.acm.org/doi/10.1145/3641236.3664424), and the bibtex to cite our paper is as below:
 
 ```
 @inproceedings{10.1145/3641236.3664424,
