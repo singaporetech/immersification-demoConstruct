@@ -2,6 +2,10 @@
 
 This project aims to **demo**cratize the **construct**ion of digital twin environments by providing an accessible platform that allows different users to populate, edit and interact with shared 3D digital replicas, all at the same time.
 
+Here's a video demonstrating the key interactions:
+
+[![](https://github.com/user-attachments/assets/31a9e51b-2d33-45a5-9914-fef24fe9d9ac)](https://youtu.be/8J5kFBGt28Q)
+
 <img src="/images/overview.png" width="90%">
 
 Existing digital twinning tools often suffer from complexities that render them inaccessible to non-technical users. These tools typically require specialized expertise and hardware sensors to synchronize real-world environments with their digital counterparts, limiting their usability and scalability across diverse settings. To address these issues, we developed the demoConstruct open-source library, designed to empower non-technical users to easily create and maintain high-fidelity, interactive 3D models in real-time. By simplifying the process and reducing the dependency on extensive hardware, demoConstruct aims to democratize digital twinning technology, making it accessible and practical for a broader range of applications, including healthcare, education, etc.
