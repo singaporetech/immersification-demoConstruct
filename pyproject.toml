@@ -1,0 +1,37 @@
+[project]
+name = "democonstruct-macos-testing"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = "==3.11.*"
+dependencies = [
+    "anyio==4.4.0",
+    "bpy==4.5.3",
+    "click==8.1.7",
+    "colorama==0.4.6",
+    "dnspython==2.6.1",
+    "email-validator==2.2.0",
+    "fastapi[all]==0.111.1",
+    "greenlet==3.0.3",
+    "h11==0.14.0",
+    "httpx==0.27.0",
+    "idna==3.7",
+    "numpy>=1.9.9",
+    "pillow==10.4.0",
+    "pydantic>=2.8.2",
+    "pyglet==2.0.16",
+    "pymongo==4.8.0",
+    "pytest>=8.4.2",
+    "python-dotenv==1.0.1",
+    "python-multipart==0.0.9",
+    "pyyaml==6.0.1",
+    "sniffio==1.3.1",
+    "sqlalchemy==2.0.31",
+    "sqlalchemy-utc==0.14.0",
+    "starlette==0.37.2",
+    "trimesh==4.4.3",
+    "typing-extensions==4.12.2",
+    "uvicorn==0.30.3",
+    "watchfiles==0.22.0",
+    "websockets==12.0",
+]

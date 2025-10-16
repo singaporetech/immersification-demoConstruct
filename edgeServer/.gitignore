@@ -1,0 +1,67 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+
+# Compiled Python bytecode
+*.py[cod]
+
+# Python venv
+__pycache__
+venv/
+.venv/
+
+# Capture images
+captures/*
+
+# applications
+apps/*
+
+# Unignore specific model files inside captures/
+!captures/dover_courtyard
+!captures/immersification_lab
+!captures/siggraph-booth
+!captures/Warning_Zone
+!captures/1m_warning_zone
+!captures/satslounge-t3
+!captures/testing_samples
+!captures/punggol_immersification_lab
+!captures/sofa_partial
+!captures/wheelchair
+
+## User study assets
+!captures/test_sofaSet
+!captures/test_desk
+!captures/test_plant
+!captures/test_chair
+!captures/test_coffeeTable
+!captures/test_officeSpace
+!captures/test_progressiveSofa
+!captures/test_progressiveDesk
+!captures/sampleupload_progressiveDesk
+!captures/sampleupload_progressiveSofa
+!captures/progressiveSofaCoarseTexture_i2
+!captures/progressiveSofaCoarseTexture_i6
+!captures/progressiveSofaCoarseTexture_i15
+!captures/progressiveSofaImcomplete_i2
+!captures/progressiveSofaImcomplete_i6
+!captures/progressiveSofaImcomplete_i15
+
+## Gaussian assets
+!captures/truck_dataset
+!captures/gaussian_sofa
+!captures/gaussian_bicycle
+!captures/gaussian_desk
+!captures/gaussian_playarea
+
+
+#ignore captures.zip
+captures.zip
+
+# Meshroom output file
+out.mg
+
+# macos
+.DS_Store
+
+# ssl files
+*.pem

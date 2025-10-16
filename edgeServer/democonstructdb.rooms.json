@@ -1,0 +1,355 @@
+[{
+  "_id": {
+    "$oid": "685174def4a88a9f246734bd"
+  },
+  "room_id": 606,
+  "name": "SIT Dover Courtyard",
+  "baseReconstruction": "dover_courtyard",
+  "authors": "N/A",
+  "created_date": "17/06/2025 21:59",
+  "modified_date": "17/06/2025 21:59",
+  "mesh_instances": [
+    {
+      "asset_id": [
+        "dover_courtyard",
+        "__LIVE_VERSION"
+      ],
+      "mesh_instance_id": 1,
+      "gs_instance_id": 1,
+      "parent_id": -1,
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "editable": false
+    }
+  ],
+  "mesh_creation_count": 1,
+  "marker_instances": [],
+  "marker_creation_count": 0,
+  "annotation_instances": [],
+  "annotation_creation_count": 0,
+  "measurement_instances": [],
+  "measurement_instance_count": 0
+},
+{
+  "_id": {
+    "$oid": "68517513f4a88a9f246734be"
+  },
+  "room_id": 386,
+  "name": "SIT SP Immersification Lab",
+  "baseReconstruction": "immersification_lab",
+  "authors": "N/A",
+  "created_date": "17/06/2025 22:00",
+  "modified_date": "17/06/2025 22:00",
+  "mesh_instances": [
+    {
+      "asset_id": [
+        "immersification_lab",
+        "__LIVE_VERSION"
+      ],
+      "mesh_instance_id": 1,
+      "gs_instance_id": 1,
+      "parent_id": -1,
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "editable": false
+    }
+  ],
+  "mesh_creation_count": 1,
+  "marker_instances": [],
+  "marker_creation_count": 0,
+  "annotation_instances": [],
+  "annotation_creation_count": 0,
+  "measurement_instances": [],
+  "measurement_instance_count": 0
+},
+{
+  "_id": {
+    "$oid": "68527fb6a72ac0b0e94a00c9"
+  },
+  "room_id": 511,
+  "name": "SIT PG Immersification Lab",
+  "baseReconstruction": "punggol_immersification_lab",
+  "authors": "N/A",
+  "created_date": "18/06/2025 16:58",
+  "modified_date": "18/06/2025 16:58",
+  "mesh_instances": [
+    {
+      "asset_id": [
+        "punggol_immersification_lab",
+        "__LIVE_VERSION"
+      ],
+      "mesh_instance_id": 1,
+      "gs_instance_id": 1,
+      "parent_id": -1,
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "editable": false
+    },
+    {
+      "asset_id": [
+        "sofa_partial",
+        "__LIVE_VERSION"
+      ],
+      "mesh_instance_id": 2,
+      "gs_instance_id": 2,
+      "parent_id": -1,
+      "position": [
+        -0.07725244015455246,
+        -0.25248730182647705,
+        -0.260790079832077
+      ],
+      "rotation": [
+        0,
+        120.59573934412536,
+        0
+      ],
+      "scale": [
+        0.9999996068893848,
+        1,
+        0.9999996068893848
+      ],
+      "editable": true
+    }
+  ],
+  "mesh_creation_count": 2,
+  "marker_instances": [],
+  "marker_creation_count": 0,
+  "annotation_instances": [],
+  "annotation_creation_count": 0,
+  "measurement_instances": [],
+  "measurement_instance_count": 0
+},
+{
+  "_id": {
+    "$oid": "6864faae2626860d9ef971a6"
+  },
+  "room_id": 376,
+  "name": "User Study Test Room",
+  "baseReconstruction": "test_officeSpace",
+  "authors": "N/A",
+  "created_date": "02/07/2025 17:23",
+  "modified_date": "02/07/2025 17:23",
+  "mesh_instances": [
+    {
+      "asset_id": [
+        "test_officeSpace",
+        "__LIVE_VERSION"
+      ],
+      "mesh_instance_id": 1,
+      "gs_instance_id": 1,
+      "parent_id": -1,
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "editable": false
+    },
+    {
+      "asset_id": [
+        "test_desk",
+        "__LIVE_VERSION"
+      ],
+      "mesh_instance_id": 2,
+      "gs_instance_id": 2,
+      "parent_id": -1,
+      "position": [
+        -2.994572639465332,
+        -0.8968663215637207,
+        2.8454930782318115
+      ],
+      "rotation": [
+        0,
+        90.87703868649716,
+        0
+      ],
+      "scale": [
+        0.9999998506897828,
+        1,
+        0.9999998506897828
+      ],
+      "editable": true
+    },
+    {
+      "asset_id": [
+        "test_plant",
+        "__LIVE_VERSION"
+      ],
+      "mesh_instance_id": 3,
+      "gs_instance_id": 3,
+      "parent_id": -1,
+      "position": [
+        1.457501769065857,
+        -1.11021888256073,
+        3.949903726577759
+      ],
+      "rotation": [
+        0,
+        -114.29664062157681,
+        0
+      ],
+      "scale": [
+        2.069475266679832,
+        2.069474935531616,
+        2.069475266679832
+      ],
+      "editable": true
+    },
+    {
+      "asset_id": [
+        "test_plant",
+        "__LIVE_VERSION"
+      ],
+      "mesh_instance_id": 4,
+      "gs_instance_id": 4,
+      "parent_id": -1,
+      "position": [
+        -3.0482490062713623,
+        -1.0805974006652832,
+        1.5939615964889526
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        2.0790631771087646,
+        2.0790631771087646,
+        2.0790631771087646
+      ],
+      "editable": true
+    },
+    {
+      "asset_id": [
+        "test_chair",
+        "__LIVE_VERSION"
+      ],
+      "mesh_instance_id": 5,
+      "gs_instance_id": 5,
+      "parent_id": -1,
+      "position": [
+        -0.010552557185292244,
+        -0.8585151433944702,
+        -5.17658805847168
+      ],
+      "rotation": [
+        0,
+        -44.94163812306167,
+        0
+      ],
+      "scale": [
+        0.9999999116081387,
+        1,
+        0.9999999116081387
+      ],
+      "editable": true
+    },
+    {
+      "asset_id": [
+        "test_chair",
+        "__LIVE_VERSION"
+      ],
+      "mesh_instance_id": 6,
+      "gs_instance_id": 6,
+      "parent_id": -1,
+      "position": [
+        -1.0427782535552979,
+        -0.8583174347877502,
+        -4.626974582672119
+      ],
+      "rotation": [
+        0,
+        152.00394979493433,
+        0
+      ],
+      "scale": [
+        1.0000001746174323,
+        1,
+        1.0000001746174323
+      ],
+      "editable": true
+    },
+    {
+      "asset_id": [
+        "test_chair",
+        "__LIVE_VERSION"
+      ],
+      "mesh_instance_id": 7,
+      "gs_instance_id": 7,
+      "parent_id": -1,
+      "position": [
+        -2.348705530166626,
+        -0.8841090202331543,
+        2.6637425422668457
+      ],
+      "rotation": [
+        0,
+        -114.17351912782104,
+        0
+      ],
+      "scale": [
+        1.000000127642944,
+        1,
+        1.000000127642944
+      ],
+      "editable": true
+    }
+  ],
+  "mesh_creation_count": 7,
+  "marker_instances": [],
+  "marker_creation_count": 0,
+  "annotation_instances": [],
+  "annotation_creation_count": 0,
+  "measurement_instances": [],
+  "measurement_instance_count": 0
+}]

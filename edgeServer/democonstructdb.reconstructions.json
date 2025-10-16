@@ -1,0 +1,497 @@
+[{
+  "_id": {
+    "$oid": "661f4329e4a2b6b5f1724fdc"
+  },
+  "data_uid": "Warning_Zone",
+  "name": "3m circular zone",
+  "authors": "No Author",
+  "description": "No Description",
+  "creation_date": "Not Listed"
+},
+{
+  "_id": {
+    "$oid": "661f432ee4a2b6b5f1724fdd"
+  },
+  "data_ref_id": "Warning_Zone",
+  "version": "1",
+  "filetype": ".glb",
+  "has_thumbnail": true,
+  "model_filename": "1",
+  "thumbnail_filename": "thumbnail.png"
+},
+{
+  "_id": {
+    "$oid": "6625db538aa3e77848e7ad63"
+  },
+  "data_uid": "immersification_lab",
+  "name": "Immersification lab",
+  "authors": "No Author",
+  "description": "No Description",
+  "creation_date": "Not Listed"
+},
+{
+  "_id": {
+    "$oid": "6625db598aa3e77848e7ad64"
+  },
+  "data_ref_id": "immersification_lab",
+  "version": "1",
+  "filetype": ".glb",
+  "has_thumbnail": true,
+  "model_filename": "1",
+  "thumbnail_filename": "thumbnail.png"
+},
+{
+  "_id": {
+    "$oid": "669c8e17fe8018d7d13e25d8"
+  },
+  "data_uid": "dover_courtyard",
+  "name": "SIT Dover Courtyard",
+  "authors": "No Author",
+  "description": "No Description",
+  "creation_date": "Not Listed"
+},
+{
+  "_id": {
+    "$oid": "669c8e1dfe8018d7d13e25d9"
+  },
+  "data_ref_id": "dover_courtyard",
+  "version": "1",
+  "filetype": ".glb",
+  "has_thumbnail": true,
+  "model_filename": "1",
+  "thumbnail_filename": "thumbnail.png"
+},
+{
+  "_id": {
+    "$oid": "66c6ad86c7556eaadc46596b"
+  },
+  "data_uid": "siggraph-booth",
+  "name": "SIGGRAPH 24 Booth",
+  "authors": "No Author",
+  "description": "No Description",
+  "creation_date": "Not Listed"
+},
+{
+  "_id": {
+    "$oid": "66c6ad8bc7556eaadc46596c"
+  },
+  "data_ref_id": "siggraph-booth",
+  "version": "1",
+  "filetype": ".glb",
+  "has_thumbnail": true,
+  "model_filename": "1",
+  "thumbnail_filename": "thumbnail.png"
+},
+{
+  "_id": {
+    "$oid": "66c6adc5c7556eaadc46596d"
+  },
+  "data_ref_id": "siggraph-booth",
+  "version": "14",
+  "filetype": ".glb",
+  "has_thumbnail": true,
+  "model_filename": "14",
+  "thumbnail_filename": "thumbnail.png"
+},
+{
+  "_id": {
+    "$oid": "671f5653714e57211940aad0"
+  },
+  "data_uid": "1m_warning_zone",
+  "name": "1m circular zone",
+  "authors": "No Author",
+  "description": "No Description",
+  "creation_date": "Not Listed"
+},
+{
+  "_id": {
+    "$oid": "671f565b714e57211940aad1"
+  },
+  "data_ref_id": "1m_warning_zone",
+  "version": "1",
+  "filetype": ".glb",
+  "has_thumbnail": true,
+  "model_filename": "1",
+  "thumbnail_filename": "thumbnail.png"
+},
+{
+  "_id": {
+    "$oid": "671f5819714e57211940aad4"
+  },
+  "data_uid": "satslounge-t3",
+  "name": "SATS Terminal 3 Lounge",
+  "authors": "No Author",
+  "description": "No Description",
+  "creation_date": "Not Listed"
+},
+{
+  "_id": {
+    "$oid": "671f5822714e57211940aad5"
+  },
+  "data_ref_id": "satslounge-t3",
+  "version": "1",
+  "filetype": ".glb",
+  "has_thumbnail": true,
+  "model_filename": "1",
+  "thumbnail_filename": "thumbnail.png"
+},
+{
+  "_id": {
+    "$oid": "68527e6976e5a2e4c39084c8"
+  },
+  "data_uid": "punggol_immersification_lab",
+  "name": "Punggol Immersification Lab",
+  "authors": "No Author",
+  "description": "No Description",
+  "creation_date": "Not Listed"
+},
+{
+  "_id": {
+    "$oid": "68527e7576e5a2e4c39084c9"
+  },
+  "data_ref_id": "punggol_immersification_lab",
+  "version": "1",
+  "filetype": ".glb",
+  "has_thumbnail": true,
+  "model_filename": "1",
+  "thumbnail_filename": "thumbnail.png"
+},
+{
+  "_id": {
+    "$oid": "68527e9576e5a2e4c39084ca"
+  },
+  "data_ref_id": "punggol_immersification_lab",
+  "version": "51",
+  "filetype": ".glb",
+  "has_thumbnail": true,
+  "model_filename": "51",
+  "thumbnail_filename": "thumbnail.png"
+},
+{
+  "_id": {
+    "$oid": "68527ebc76e5a2e4c39084cb"
+  },
+  "data_uid": "sofa_partial",
+  "name": "Sofa Partial",
+  "authors": "No Author",
+  "description": "No Description",
+  "creation_date": "Not Listed"
+},
+{
+  "_id": {
+    "$oid": "68527ec376e5a2e4c39084cc"
+  },
+  "data_ref_id": "sofa_partial",
+  "version": "1",
+  "filetype": ".glb",
+  "has_thumbnail": true,
+  "model_filename": "1",
+  "thumbnail_filename": "thumbnail.png"
+},
+{
+  "_id": {
+    "$oid": "68527ece76e5a2e4c39084cd"
+  },
+  "data_ref_id": "sofa_partial",
+  "version": "10",
+  "filetype": ".glb",
+  "has_thumbnail": true,
+  "model_filename": "10",
+  "thumbnail_filename": "thumbnail.png"
+},
+{
+  "_id": {
+    "$oid": "68527f6676e5a2e4c39084d0"
+  },
+  "data_uid": "wheelchair",
+  "name": "PMD Standard Size",
+  "authors": "No Author",
+  "description": "No Description",
+  "creation_date": "Not Listed"
+},
+{
+  "_id": {
+    "$oid": "68527f6d76e5a2e4c39084d1"
+  },
+  "data_ref_id": "wheelchair",
+  "version": "1",
+  "filetype": ".glb",
+  "has_thumbnail": true,
+  "model_filename": "1",
+  "thumbnail_filename": "thumbnail.png"
+},
+{
+  "_id": {
+    "$oid": "6864f55b5ba8a61487701b53"
+  },
+  "data_uid": "test_officeSpace",
+  "name": "Test Office",
+  "authors": "No Author",
+  "description": "No Description",
+  "creation_date": "Not Listed"
+},
+{
+  "_id": {
+    "$oid": "6864f5645ba8a61487701b54"
+  },
+  "data_ref_id": "test_officeSpace",
+  "version": "1",
+  "filetype": ".glb",
+  "has_thumbnail": true,
+  "model_filename": "1",
+  "thumbnail_filename": "thumbnail.png"
+},
+{
+  "_id": {
+    "$oid": "6864f9005ba8a61487701b55"
+  },
+  "data_uid": "test_coffeeTable",
+  "name": "Test Coffee Table",
+  "authors": "No Author",
+  "description": "No Description",
+  "creation_date": "Not Listed"
+},
+{
+  "_id": {
+    "$oid": "6864f9055ba8a61487701b56"
+  },
+  "data_ref_id": "test_coffeeTable",
+  "version": "1",
+  "filetype": ".glb",
+  "has_thumbnail": true,
+  "model_filename": "1",
+  "thumbnail_filename": "thumbnail.png"
+},
+{
+  "_id": {
+    "$oid": "6864f9105ba8a61487701b57"
+  },
+  "data_uid": "test_chair",
+  "name": "Test Chair",
+  "authors": "No Author",
+  "description": "No Description",
+  "creation_date": "Not Listed"
+},
+{
+  "_id": {
+    "$oid": "6864f9175ba8a61487701b58"
+  },
+  "data_ref_id": "test_chair",
+  "version": "1",
+  "filetype": ".glb",
+  "has_thumbnail": true,
+  "model_filename": "1",
+  "thumbnail_filename": "thumbnail.png"
+},
+{
+  "_id": {
+    "$oid": "6864f93c5ba8a61487701b5b"
+  },
+  "data_uid": "test_plant",
+  "name": "Test Potted Plant",
+  "authors": "No Author",
+  "description": "No Description",
+  "creation_date": "Not Listed"
+},
+{
+  "_id": {
+    "$oid": "6864f9445ba8a61487701b5c"
+  },
+  "data_ref_id": "test_plant",
+  "version": "1",
+  "filetype": ".glb",
+  "has_thumbnail": true,
+  "model_filename": "1",
+  "thumbnail_filename": "thumbnail.png"
+},
+{
+  "_id": {
+    "$oid": "6864f94e5ba8a61487701b5d"
+  },
+  "data_uid": "test_desk",
+  "name": "Test Desk",
+  "authors": "No Author",
+  "description": "No Description",
+  "creation_date": "Not Listed"
+},
+{
+  "_id": {
+    "$oid": "6864f9565ba8a61487701b5e"
+  },
+  "data_ref_id": "test_desk",
+  "version": "1",
+  "filetype": ".glb",
+  "has_thumbnail": true,
+  "model_filename": "1",
+  "thumbnail_filename": "thumbnail.png"
+},
+{
+  "_id": {
+    "$oid": "686500335ba8a61487701b5f"
+  },
+  "data_uid": "test_sofaSet",
+  "name": "Test Sofa Set",
+  "authors": "No Author",
+  "description": "No Description",
+  "creation_date": "Not Listed"
+},
+{
+  "_id": {
+    "$oid": "6865003a5ba8a61487701b60"
+  },
+  "data_ref_id": "test_sofaSet",
+  "version": "1",
+  "filetype": ".glb",
+  "has_thumbnail": true,
+  "model_filename": "1",
+  "thumbnail_filename": "thumbnail.png"
+},
+{
+  "_id": {
+    "$oid": "686507325ba8a61487701b63"
+  },
+  "data_uid": "test_progressiveDesk",
+  "name": "Progressive Desk",
+  "authors": "No Author",
+  "description": "No Description",
+  "creation_date": "Not Listed"
+},
+{
+  "_id": {
+    "$oid": "686507395ba8a61487701b64"
+  },
+  "data_ref_id": "test_progressiveDesk",
+  "version": "1",
+  "filetype": ".glb",
+  "has_thumbnail": true,
+  "model_filename": "1",
+  "thumbnail_filename": "thumbnail.png"
+},
+{
+  "_id": {
+    "$oid": "6877438ad83cddc15fa30cd1"
+  },
+  "data_uid": "gaussian_desk",
+  "name": "Gaussian Desk",
+  "authors": "No Author",
+  "description": "No Description",
+  "creation_date": "Not Listed"
+},
+{
+  "_id": {
+    "$oid": "68774397d83cddc15fa30cd2"
+  },
+  "data_ref_id": "gaussian_desk",
+  "version": "1",
+  "filetype": ".glb",
+  "has_thumbnail": true,
+  "model_filename": "1",
+  "thumbnail_filename": "thumbnail.png"
+},
+{
+  "_id": {
+    "$oid": "6877439ed83cddc15fa30cd3"
+  },
+  "data_ref_id": "gaussian_desk",
+  "version": "1",
+  "filetype": ".splat",
+  "has_thumbnail": true,
+  "model_filename": "1",
+  "thumbnail_filename": "thumbnail.png"
+},
+{
+  "_id": {
+    "$oid": "687743dcd83cddc15fa30cd4"
+  },
+  "data_uid": "gaussian_playarea",
+  "name": "Gaussian Playarea",
+  "authors": "No Author",
+  "description": "No Description",
+  "creation_date": "Not Listed"
+},
+{
+  "_id": {
+    "$oid": "687743e5d83cddc15fa30cd5"
+  },
+  "data_ref_id": "gaussian_playarea",
+  "version": "1",
+  "filetype": ".glb",
+  "has_thumbnail": true,
+  "model_filename": "1",
+  "thumbnail_filename": "thumbnail.png"
+},
+{
+  "_id": {
+    "$oid": "687743edd83cddc15fa30cd6"
+  },
+  "data_ref_id": "gaussian_playarea",
+  "version": "1",
+  "filetype": ".splat",
+  "has_thumbnail": true,
+  "model_filename": "1",
+  "thumbnail_filename": "thumbnail.png"
+},
+{
+  "_id": {
+    "$oid": "68774433d83cddc15fa30cd7"
+  },
+  "data_uid": "gaussian_bicycle",
+  "name": "Gaussian Bicycle",
+  "authors": "No Author",
+  "description": "No Description",
+  "creation_date": "Not Listed"
+},
+{
+  "_id": {
+    "$oid": "6877443cd83cddc15fa30cd8"
+  },
+  "data_ref_id": "gaussian_bicycle",
+  "version": "1",
+  "filetype": ".splat",
+  "has_thumbnail": true,
+  "model_filename": "1",
+  "thumbnail_filename": "thumbnail.png"
+},
+{
+  "_id": {
+    "$oid": "68774445d83cddc15fa30cd9"
+  },
+  "data_ref_id": "gaussian_bicycle",
+  "version": "1",
+  "filetype": ".glb",
+  "has_thumbnail": true,
+  "model_filename": "1",
+  "thumbnail_filename": "thumbnail.png"
+},
+{
+  "_id": {
+    "$oid": "68774558d83cddc15fa30cda"
+  },
+  "data_uid": "gaussian_sofa",
+  "name": "Gaussian Sofa",
+  "authors": "No Author",
+  "description": "No Description",
+  "creation_date": "Not Listed"
+},
+{
+  "_id": {
+    "$oid": "6877455fd83cddc15fa30cdb"
+  },
+  "data_ref_id": "gaussian_sofa",
+  "version": "1",
+  "filetype": ".glb",
+  "has_thumbnail": true,
+  "model_filename": "1",
+  "thumbnail_filename": "thumbnail.png"
+},
+{
+  "_id": {
+    "$oid": "68774569d83cddc15fa30cdc"
+  },
+  "data_ref_id": "gaussian_sofa",
+  "version": "1",
+  "filetype": ".splat",
+  "has_thumbnail": true,
+  "model_filename": "1",
+  "thumbnail_filename": "thumbnail.png"
+}]

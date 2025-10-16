@@ -9,6 +9,7 @@ Thumbs.db
 *.cache
 *.log
 *.swp
+*.pem
 
 # Build artifacts
 build/
@@ -55,3 +56,5 @@ Packages/
 
 # Vim
 Session.vim
+
+*.vscode-ctags

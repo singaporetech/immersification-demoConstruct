@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist",
+
+        "declaration": true,
+        "declarationMap": true,
+        "sourceMap": true,
+        "noEmitOnError": true,
+        "module": "ESNext",
+        "target": "ES6",
+        "esModuleInterop": true,
+        "moduleResolution": "node",
+        "jsx": "react-jsx",
+        "noEmit": true,
+        "emitDeclarationOnly": true // Only emit `.d.ts` files, no `.js` files
+    },
+    "include": ["src/**/*"],
+    "exclude": ["node_modules", "dist"]
+  }
+  

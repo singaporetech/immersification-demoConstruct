@@ -1,0 +1,70 @@
+{
+  "name": "democonstruct-editing",
+  "version": "0.2.0",
+  
+  "description": "democonstruct editing client library and related files",
+  "main": "./dist/democonstruct-editing.umd.js",
+  "module": "./dist/democonstruct-editing.es.js",
+  "types": "./dist/Exports.d.ts",
+  "source": "src/Exports.ts",
+  "exports": {
+      ".": {
+        "types": "./dist/Exports.d.ts",
+        "import": "./dist/democonstruct-editing.es.js",
+        "require": "./dist/democonstruct-editing.umd.js"
+      }
+  },
+  
+  "files": [
+    "dist", "src"
+  ],
+
+
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --mode development",
+    "build:app": "tsc && vite build",
+    "build:lib": "vite build --mode library",
+    "pack:lib": "npm run build:lib && npm pack",
+    "lint": "eslint src --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@babylonjs/core": "8.0.0",
+    "@babylonjs/gui": "8.0.0",
+    "@babylonjs/loaders": "8.0.0",
+    "@babylonjs/materials": "8.0.0",
+    "@webxr-input-profiles/assets": "^1.0.9",
+    "@webxr-input-profiles/motion-controllers": "^1.0.0",
+    "@webxr-input-profiles/registry": "^1.0.2",
+    "axios": "^1.4.0",
+    "babylonjs": "^8.0.0",
+    "babylonjs-hook": "^0.1.1",
+    "babylonjs-inspector": "^8.0.0",
+    "buffer": "^6.0.3",
+    "dotenv": "^16.3.1",
+    "fs": "^0.0.1-security",
+    "mongodb": "^5.7.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "vite-plugin-dts": "^4.4.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.37",
+    "@types/react-dom": "^18.0.11",
+    "@typescript-eslint/eslint-plugin": "^5.59.0",
+    "@typescript-eslint/parser": "^5.59.0",
+    "@vitejs/plugin-react": "^4.0.0",
+    "autoprefixer": "^10.4.14",
+    "daisyui": "^3.1.0",
+    "eslint": "^8.38.0",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.3.4",
+    "postcss": "^8.4.24",
+    "tailwindcss": "^3.3.2",
+    "typescript": "^5.0.2",
+    "vite": "^4.3.9",
+    "vite-plugin-node-polyfills": "^0.9.0"
+  }
+}
