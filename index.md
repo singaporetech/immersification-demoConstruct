@@ -1,5 +1,14 @@
 ---
 ---
+<style>
+    blockquote.callout-warning{border-left:6px solid #ff4545;background:#fff1f1;padding:12px 16px;border-radius:6px;margin-bottom:1.5rem}
+</style>
+
+<blockquote class="callout-warning">
+    <p><strong>ALERT:</strong>
+    demoConstruct has been renamed to R3CAP. This page is only retained for archival purposes, and the information presented here may not accurately reflect the current state of the project. For the latest updates, please visit our open-source repository on GitHub, <a href="https://github.com/singaporetech/r3cap">singaporetech/r3cap</a>. All future development and maintenance will be done there.
+    </p>
+</blockquote>
 
 # demoConstruct Open Source
 
@@ -45,4 +54,4 @@ Tan Chek Tien, Jeannie Lee, Leon Foo Cewei, Sukumaran Nair Nirmal, Liuziyi, Shen
 
 This work is funded by by the National Research Foundation, Singapore and Infocomm Media Development Authority under its Future Communications Research & Development Programme.
 
-This is a joint project inconjnuction with the SIT's Future Communication Translation Lab (FCTLabs). 
+This is a joint project in conjunction with the SIT's Future Communication Translation Lab (FCTLabs).
