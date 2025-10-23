@@ -1,3 +1,9 @@
+> [!WARNING]
+> demoConstruct has been renamed to R3CAP. This repository is now deprecated and is only retained for archival purposes.
+> We cannot guarantee the functionality of the code in this repository, and will not be addressing any issues raised here.
+> Future open-source development and maintenance will be done in the [singaporetech/r3cap](https://github.com/singaporetech/r3cap) repository.
+> For the latest changes, we strongly recommend you to check out the new repository.
+
 # Overview
 
 This project aims to **demo**cratize the **construct**ion of digital twin environments by providing an accessible platform that allows different users to populate, edit and interact with shared 3D digital replicas, all at the same time.
